@@ -1,2 +1,2 @@
 println("hogehoge");
-println("ほげーーーーーーーーーーーーー");
+println("ほげほげほげほげほげほげ");
